@@ -1,0 +1,39 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+     position: sticky;
+     margin-top: 0px;
+   
+}
+
+.heading:hover{
+    background-image: linear-gradient(to top left, rgb(132, 0, 255),rgb(255, 251, 0), rgb(191, 152, 255));
+}
+.note{
+    font-size: 20px;
+}
+
+body{
+    background-size: cover;
+    font-family: 'Permanent Marker', cursive;
+}
+
+
+#song_name:hover{
+    font-size: 30px;
+    background-color: rgb(127, 225, 255);
+}
+
+#song_name{
+    font-size: 30px;
+    box-shadow: 4px 4px 4px rgb(71, 0, 163);
+}
+
+canvas{
+
+    margin-top: 80px;
+    background-color: rgb(255, 255, 255);
+    border: 5px solid white;
+    border-radius: 20px;
+box-shadow: 5px 5px 5px #73cfd8;
+}
